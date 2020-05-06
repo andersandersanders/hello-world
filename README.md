@@ -1,2 +1,2 @@
 # hello-world
-test repo
+remembering how to use git
